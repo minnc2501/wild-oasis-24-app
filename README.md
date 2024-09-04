@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # The Wild Oasis
 
-Main project in React course.
+Main project in React course using libraries: React Router, React Query, React Hook Form,
